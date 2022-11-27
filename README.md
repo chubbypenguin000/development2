@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-`https://chubbypenguin000.github.io/development`
+`https://chubbypenguin000.github.io/development2`
 
 ### Goal and Value of the Application
 The goal of this application is to allow people to shop plants by browing through the catalog (and being able to filter by plant type and sort by price), and see the total value in the cart.
